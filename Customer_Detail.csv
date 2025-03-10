@@ -1,0 +1,794 @@
+Customer Name,Customer ID,Segment
+Claire Gute,CG-12520,Consumer
+Darrin Van Huff,DV-13045,Corporate
+Sean O'Donnell,SO-20335,Consumer
+Brosina Hoffman,BH-11710,Consumer
+Andrew Allen,AA-10480,Consumer
+Irene Maddox,IM-15070,Consumer
+Harold Pawlan,HP-14815,Home Office
+Pete Kriz,PK-19075,Consumer
+Alejandro Grove,AG-10270,Consumer
+Zuschuss Donatelli,ZD-21925,Consumer
+Ken Black,KB-16585,Corporate
+Sandra Flanagan,SF-20065,Consumer
+Emily Burns,EB-13870,Consumer
+Eric Hoffmann,EH-13945,Consumer
+Tracy Blumstein,TB-21520,Consumer
+Matt Abelman,MA-17560,Home Office
+Gene Hale,GH-14485,Corporate
+Steve Nguyen,SN-20710,Home Office
+Linda Cazamias,LC-16930,Corporate
+Ruben Ausman,RA-19885,Corporate
+Erin Smith,ES-14080,Corporate
+Odella Nelson,ON-18715,Corporate
+Patrick O'Donnell,PO-18865,Consumer
+Lena Hernandez,LH-16900,Consumer
+Darren Powers,DP-13000,Consumer
+Janet Molinari,JM-15265,Corporate
+Ted Butterfield,TB-21055,Consumer
+Kunst Miller,KM-16720,Consumer
+Paul Stevenson,PS-18970,Home Office
+Brendan Sweed,BS-11590,Corporate
+Karen Daniels,KD-16270,Consumer
+Henry MacAllister,HM-14980,Consumer
+Joel Eaton,JE-15745,Consumer
+Ken Brennan,KB-16600,Corporate
+Stewart Carmichael,SC-20770,Corporate
+Duane Noonan,DN-13690,Consumer
+Julie Creighton,JC-16105,Corporate
+Christopher Schild,CS-12400,Home Office
+Paul Gonzalez,PG-18895,Consumer
+Gary Mitchum,GM-14455,Home Office
+Jim Sink,JS-15685,Corporate
+Karl Braun,KB-16315,Consumer
+Roger Barcio,RB-19705,Home Office
+Parhena Norris,PN-18775,Home Office
+Katherine Ducich,KD-16345,Consumer
+Elpida Rittenbach,ER-13855,Corporate
+Rick Bensley,RB-19465,Home Office
+Gary Zandusky,GZ-14470,Consumer
+Lena Cacioppo,LC-16870,Consumer
+Janet Martin,JM-15250,Consumer
+Pete Armstrong,PA-19060,Home Office
+Cynthia Voltz,CV-12805,Corporate
+Clay Ludtke,CL-12565,Consumer
+Ryan Crowe,RC-19960,Consumer
+Dave Kipp,DK-13090,Consumer
+Greg Guthrie,GG-14650,Corporate
+Steven Cartwright,SC-20725,Consumer
+Alan Dominguez,AD-10180,Home Office
+Philip Fox,PF-19165,Consumer
+Troy Staebel,TS-21610,Consumer
+Lindsay Shagiari,LS-16975,Home Office
+Dorothy Wardle,DW-13585,Corporate
+Lena Creighton,LC-16885,Consumer
+Jonathan Doherty,JD-15895,Corporate
+Sally Hughsby,SH-19975,Corporate
+Sandra Glassco,SG-20080,Consumer
+Helen Andreada,HA-14920,Consumer
+Maureen Gastineau,MG-17680,Home Office
+Justin Ellison,JE-16165,Corporate
+Tamara Willingham,TW-21025,Home Office
+Stephanie Phelps,SP-20650,Corporate
+Neil Knudson,NK-18490,Home Office
+Dave Brooks,DB-13060,Consumer
+Nora Paige,NP-18670,Consumer
+Ted Trevino,TT-21070,Consumer
+Eric Murdock,EM-13960,Consumer
+Ruben Dartt,RD-19900,Consumer
+Max Jones,MJ-17740,Consumer
+Becky Martin,BM-11140,Consumer
+Chad Sievert,CS-12130,Consumer
+Jennifer Braxton,JB-15400,Corporate
+Shirley Jackson,SJ-20500,Consumer
+Jim Kriz,JK-15640,Home Office
+David Kendrick,DK-13150,Corporate
+Robert Marley,RM-19675,Home Office
+Sally Knutson,SK-19990,Consumer
+Frank Merwin,FM-14290,Home Office
+Alice McCarthy,AM-10360,Corporate
+Mark Packer,MP-17470,Home Office
+Mary Zewe,MZ-17515,Corporate
+Cassandra Brandow,CB-12025,Consumer
+Valerie Mitchum,VM-21685,Home Office
+Fred Hopkins,FH-14365,Corporate
+Maria Bertelson,MB-17305,Consumer
+Bruce Stewart,BS-11755,Consumer
+Logan Currie,LC-17140,Consumer
+Heather Kirkland,HK-14890,Corporate
+Laurel Elliston,LE-16810,Consumer
+Joseph Holt,JH-15985,Consumer
+Michael Stewart,MS-17980,Corporate
+Victoria Wilson,VW-21775,Corporate
+Jonathan Howell,JH-15910,Consumer
+Joni Blumstein,JB-15925,Consumer
+David Smith,DS-13180,Corporate
+Valerie Dominguez,VD-21670,Consumer
+Erin Ashbrook,EA-14035,Corporate
+David Bremer,DB-13120,Corporate
+Ken Lonsdale,KL-16645,Consumer
+Dianna Wilson,DW-13480,Home Office
+Logan Haushalter,LH-17155,Consumer
+Kelly Collister,KC-16540,Consumer
+Delfina Latchford,DL-13315,Consumer
+Dan Reichenbach,DR-12880,Corporate
+Craig Carreira,CC-12670,Consumer
+Dorris liebe,Dl-13600,Corporate
+Sean Braxton,SB-20290,Corporate
+Roy Collins,RC-19825,Consumer
+Alan Hwang,AH-10210,Consumer
+Claudia Bergmann,CB-12535,Corporate
+Christine Abelman,CA-12310,Corporate
+Kristen Hastings,KH-16690,Corporate
+Barry Blumstein,BB-10990,Corporate
+Andrew Gjertsen,AG-10495,Corporate
+Jas O'Carroll,JO-15280,Consumer
+Alan Haines,AH-10195,Corporate
+Nick Zandusky,NZ-18565,Home Office
+Kelly Lampkin,KL-16555,Corporate
+Alan Schoenberger,AS-10225,Corporate
+Corey Roper,CR-12625,Home Office
+Shahid Hopkins,SH-20395,Consumer
+Ben Peterman,BP-11185,Corporate
+Thomas Seio,TS-21205,Corporate
+Andy Gerbode,AG-10525,Corporate
+Sung Pak,SP-20860,Corporate
+Nathan Mautz,NM-18445,Home Office
+Frank Atkinson,FA-14230,Corporate
+Grace Kelly,GK-14620,Corporate
+Don Jones,DJ-13510,Corporate
+Patrick O'Brill,PO-18850,Consumer
+John Lucas,JL-15850,Consumer
+Doug Bickford,DB-13615,Consumer
+Alyssa Crouse,AC-10420,Corporate
+Clay Cheatham,CC-12550,Consumer
+Tamara Dahlen,TD-20995,Consumer
+Adam Bellavance,AB-10060,Home Office
+Jeremy Lonsdale,JL-15505,Consumer
+Victoria Brennan,VB-21745,Corporate
+Katrina Willman,KW-16435,Consumer
+Julia Dunbar,JD-16060,Consumer
+Michael Kennedy,MK-17905,Corporate
+Guy Thornton,GT-14755,Consumer
+Arthur Gainer,AG-10900,Consumer
+Muhammed MacIntyre,MM-18280,Corporate
+Allen Rosenblatt,AR-10405,Corporate
+Russell Applegate,RA-19915,Consumer
+Alejandro Savely,AS-10285,Corporate
+Laura Armstrong,LA-16780,Corporate
+Denny Ordway,DO-13435,Consumer
+Dean Katz,DK-13225,Corporate
+Nathan Gelder,NG-18430,Consumer
+Mike Vittorini,MV-18190,Consumer
+Jack Garza,JG-15115,Consumer
+Bart Pistole,BP-11095,Corporate
+Victor Preis,VP-21730,Home Office
+Saphhira Shifley,SS-20140,Corporate
+Anna Gayman,AG-10675,Consumer
+Luke Foster,LF-17185,Consumer
+Roy Französisch,RF-19840,Consumer
+Keith Herrera,KH-16510,Consumer
+Kimberly Carter,KC-16675,Corporate
+Caroline Jumper,CJ-12010,Consumer
+Philip Brown,PB-19150,Consumer
+Michael Paige,MP-17965,Corporate
+Natalie Fritzler,NF-18385,Consumer
+Shirley Daniels,SD-20485,Home Office
+Ken Heidel,KH-16630,Corporate
+Ross Baird,RB-19795,Home Office
+Mike Kennedy,MK-18160,Consumer
+Philisse Overcash,PO-19180,Home Office
+Brenda Bowman,BB-11545,Corporate
+Troy Blackwell,TB-21595,Consumer
+Raymond Buch,RB-19360,Consumer
+Ed Braxton,EB-13705,Corporate
+Sanjit Chand,SC-20095,Consumer
+Tanja Norvell,TN-21040,Home Office
+Joni Sundaresam,JS-15940,Home Office
+Maya Herman,MH-17785,Corporate
+Jeremy Pistek,JP-15520,Consumer
+Jeremy Ellison,JE-15475,Consumer
+John Grady,JG-15805,Corporate
+Xylona Preis,XP-21865,Consumer
+Erin Mull,EM-14065,Consumer
+Michelle Tran,MT-18070,Home Office
+Sue Ann Reed,SA-20830,Consumer
+Carl Weiss,CW-11905,Home Office
+Astrea Jones,AJ-10960,Consumer
+Sonia Sunley,SS-20590,Consumer
+Rose O'Brian,RO-19780,Consumer
+Maribeth Dona,MD-17350,Consumer
+Maribeth Yedwab,MY-17380,Corporate
+Christopher Martinez,CM-12385,Consumer
+Lynn Smith,LS-17245,Consumer
+Bradley Nguyen,BN-11515,Consumer
+Dean Braden,DB-13210,Consumer
+Matt Connell,MC-17605,Corporate
+Brian Dahlen,BD-11605,Consumer
+Patricia Hirasaki,PH-18790,Home Office
+Mike Gockenbach,MG-18145,Consumer
+Karen Bern,KB-16240,Corporate
+Jasper Cacioppo,JC-15340,Consumer
+Rob Lucas,RL-19615,Consumer
+Allen Armold,AA-10375,Consumer
+Emily Phan,EP-13915,Consumer
+Darren Koutras,DK-12985,Consumer
+Bradley Drucker,BD-11500,Consumer
+Liz MacKendrick,LM-17065,Consumer
+Adrian Shami,AS-10135,Home Office
+Bill Donatelli,BD-11320,Consumer
+Greg Tran,GT-14710,Consumer
+Ashley Jarboe,AJ-10945,Consumer
+Olvera Toch,OT-18730,Consumer
+Liz Pelletier,LP-17080,Consumer
+Cynthia Arntzen,CA-12775,Consumer
+Jeremy Farry,JF-15490,Consumer
+Frank Preis,FP-14320,Consumer
+Ellis Ballard,EB-13840,Corporate
+Jennifer Ferguson,JF-15415,Consumer
+Sarah Foster,SF-20200,Consumer
+Trudy Glocke,TG-21640,Consumer
+Carlos Soltero,CS-11950,Consumer
+Charles Crestani,CC-12145,Consumer
+Dianna Vittorini,DV-13465,Consumer
+Bruce Degenhardt,BD-11725,Consumer
+Zuschuss Carroll,ZC-21910,Consumer
+Melanie Seite,MS-17830,Consumer
+Lena Radford,LR-16915,Consumer
+Theone Pippenger,TP-21130,Consumer
+Chloris Kastensmidt,CK-12205,Consumer
+Alan Shonely,AS-10240,Consumer
+Andrew Roberts,AR-10510,Consumer
+Nona Balk,NB-18655,Corporate
+Giulietta Dortch,GD-14590,Corporate
+Clytie Kelty,CK-12595,Consumer
+Nat Gilpin,NG-18355,Corporate
+Christina Anderson,CA-12265,Consumer
+Sylvia Foulston,SF-20965,Corporate
+Meg O'Connel,MO-17800,Home Office
+Annie Thurman,AT-10735,Consumer
+Fred McMath,FM-14380,Consumer
+Denny Joy,DJ-13420,Corporate
+Max Engle,ME-17725,Consumer
+Justin Deggeller,JD-16150,Corporate
+John Lee,JL-15835,Consumer
+Sean Christensen,SC-20305,Consumer
+Chuck Clark,CC-12430,Home Office
+Anthony Rawles,AR-10825,Corporate
+Steven Roelle,SR-20740,Home Office
+Craig Reiter,CR-12730,Consumer
+Eugene Hildebrand,EH-14125,Home Office
+Sibella Parks,SP-20545,Corporate
+Tiffany House,TH-21235,Corporate
+Resi Pölking,RP-19390,Consumer
+Rob Beeghly,RB-19570,Consumer
+Carol Darley,CD-11980,Consumer
+Doug Jacobs,DJ-13630,Consumer
+Grant Thornton,GT-14635,Corporate
+Michael Chen,MC-17845,Consumer
+Ralph Arnett,RA-19285,Consumer
+Naresj Patel,NP-18325,Consumer
+Alan Barnes,AB-10165,Consumer
+Jesus Ocampo,JO-15550,Home Office
+Jay Kimmel,JK-15370,Consumer
+Brad Norvell,BN-11470,Corporate
+David Philippe,DP-13165,Consumer
+Tracy Hopkins,TH-21550,Home Office
+Arthur Prichep,AP-10915,Consumer
+Roland Schwarz,RS-19765,Corporate
+Seth Vernon,SV-20365,Consumer
+Christine Kargatis,CK-12325,Home Office
+Ross DeVincentis,RD-19810,Home Office
+Mathew Reese,MR-17545,Home Office
+Steve Chapman,SC-20695,Corporate
+Jay Fein,JF-15355,Consumer
+Emily Grady,EG-13900,Consumer
+Darrin Sayre,DS-13030,Home Office
+Phillina Ober,PO-19195,Home Office
+Sung Shariari,SS-20875,Consumer
+Peter Bühler,PB-19105,Consumer
+Roland Fjeld,RF-19735,Consumer
+Yoseph Carroll,YC-21895,Corporate
+Debra Catini,DC-13285,Consumer
+Christine Phan,CP-12340,Corporate
+Barry Französisch,BF-11020,Corporate
+Lisa Hazard,LH-17020,Consumer
+Chris Selesnick,CS-12250,Corporate
+Anthony Johnson,AJ-10795,Corporate
+Benjamin Venier,BV-11245,Corporate
+Dan Lawera,DL-12865,Consumer
+Bryan Mills,BM-11785,Consumer
+Liz Thompson,LT-17110,Consumer
+Joe Kamberova,JK-15730,Consumer
+Erica Smith,ES-14020,Consumer
+Rick Hansen,RH-19495,Consumer
+Carlos Daly,CD-11920,Consumer
+Helen Wasserman,HW-14935,Corporate
+Mike Caudle,MC-18130,Corporate
+Gary McGarr,GM-14440,Consumer
+Pauline Johnson,PJ-19015,Consumer
+Bart Watters,BW-11110,Corporate
+Toby Ritter,TR-21325,Consumer
+Patrick Gardner,PG-18820,Consumer
+James Lanier,JL-15175,Home Office
+Brian Moss,BM-11650,Corporate
+Eudokia Martin,EM-14095,Corporate
+Art Foster,AF-10885,Consumer
+Guy Armstrong,GA-14725,Consumer
+Cyma Kinney,CK-12760,Corporate
+Dave Poirier,DP-13105,Corporate
+Berenike Kampe,BK-11260,Consumer
+Sanjit Jacobs,SJ-20125,Home Office
+Chuck Magee,CM-12445,Consumer
+Anthony Jacobs,AJ-10780,Corporate
+Linda Southworth,LS-16945,Corporate
+Guy Phonely,GP-14740,Corporate
+Paul Knutson,PK-18910,Home Office
+Sally Matthias,SM-20005,Consumer
+Anthony Garverick,AG-10765,Home Office
+Peter McVee,PM-19135,Home Office
+Lauren Leatherbury,LL-16840,Consumer
+Jill Stevenson,JS-15595,Corporate
+Ed Ludwig,EL-13735,Home Office
+Pamela Coakley,PC-18745,Corporate
+Hunter Lopez,HL-15040,Consumer
+Maribeth Schnelling,MS-17365,Consumer
+George Bell,GB-14530,Corporate
+Justin Ritter,JR-16210,Corporate
+Bill Eplett,BE-11335,Home Office
+Sample Company A,SC-20050,Home Office
+Rob Williams,RW-19630,Corporate
+Sanjit Engle,SE-20110,Consumer
+Adam Hart,AH-10075,Corporate
+Jessica Myrick,JM-15535,Consumer
+Joel Jenkins,JJ-15760,Home Office
+Ralph Kennedy,RK-19300,Consumer
+Catherine Glotzbach,CG-12040,Home Office
+Rachel Payne,RP-19270,Corporate
+Karen Carlisle,KC-16255,Corporate
+Katherine Hughes,KH-16360,Consumer
+Greg Hansen,GH-14665,Consumer
+Scott Williamson,SW-20275,Consumer
+Joseph Airdo,JA-15970,Consumer
+Daniel Lacy,DL-12925,Consumer
+Lindsay Williams,LW-16990,Corporate
+Thomas Brumley,TB-21190,Home Office
+Bryan Spruell,BS-11800,Home Office
+Robert Waldorf,RW-19690,Consumer
+Tracy Zic,TZ-21580,Consumer
+Ann Steele,AS-10630,Home Office
+Toby Swindell,TS-21340,Consumer
+Sara Luxemburg,SL-20155,Home Office
+Mitch Willingham,MW-18235,Corporate
+Rob Dowd,RD-19585,Consumer
+Ryan Akin,RA-19945,Consumer
+Meg Tillman,MT-17815,Consumer
+Vivek Gonzalez,VG-21790,Consumer
+John Stevenson,JS-15880,Consumer
+Kalyca Meade,KM-16225,Corporate
+Hallie Redmond,HR-14770,Home Office
+Deanra Eno,DE-13255,Home Office
+Allen Goldenen,AG-10390,Consumer
+Jennifer Jackson,JJ-15445,Consumer
+Jennifer Halladay,JH-15430,Consumer
+Robert Dilbeck,RD-19660,Home Office
+Mary O'Rourke,MO-17500,Consumer
+Noel Staavos,NS-18640,Corporate
+Deirdre Greer,DG-13300,Corporate
+Nicole Fjeld,NF-18595,Home Office
+Matthew Grinstein,MG-17650,Home Office
+Theresa Swint,TS-21160,Corporate
+Brian DeCherney,BD-11620,Consumer
+Charles McCrossin,CM-12160,Consumer
+Skye Norling,SN-20560,Home Office
+Erica Hernandez,EH-14005,Home Office
+Frank Olsen,FO-14305,Consumer
+Maurice Satty,MS-17710,Consumer
+Chad Cunningham,CC-12100,Home Office
+Don Weiss,DW-13540,Consumer
+Bill Tyler,BT-11395,Corporate
+Craig Yedwab,CY-12745,Corporate
+Brad Thomas,BT-11485,Home Office
+Penelope Sewall,PS-19045,Home Office
+Paul Van Hugh,PV-18985,Home Office
+Neoma Murray,NM-18520,Consumer
+Dionis Lloyd,DL-13495,Corporate
+Christine Sundaresam,CS-12355,Consumer
+Frank Hawley,FH-14275,Corporate
+Nat Carroll,NC-18340,Consumer
+Alex Avila,AA-10315,Consumer
+Larry Tron,LT-16765,Consumer
+Anne Pryor,AP-10720,Home Office
+Paul MacIntyre,PM-18940,Consumer
+Alyssa Tate,AT-10435,Home Office
+Cathy Armstrong,CA-12055,Home Office
+Harold Ryan,HR-14830,Corporate
+Bradley Talbott,BT-11530,Home Office
+Larry Hughes,LH-16750,Consumer
+Steven Ward,SW-20755,Corporate
+Stefania Perrino,SP-20620,Corporate
+Ben Ferrer,BF-11170,Home Office
+Kean Thornton,KT-16480,Consumer
+Brooke Gillingham,BG-11695,Corporate
+Greg Matthias,GM-14680,Consumer
+Eva Jacobs,EJ-14155,Consumer
+Nora Preis,NP-18700,Consumer
+Mick Hernandez,MH-18115,Home Office
+Jocasta Rupert,JR-15700,Consumer
+Suzanne McNair,SM-20950,Corporate
+Chris Cortes,CC-12220,Consumer
+Phillip Flathmann,PF-19225,Consumer
+Dan Campbell,DC-12850,Consumer
+Bryan Davis,BD-11770,Consumer
+Gene McClure,GM-14500,Consumer
+Todd Boyes,TB-21355,Corporate
+Justin Hirsh,JH-16180,Consumer
+Erica Bern,EB-13975,Corporate
+Quincy Jones,QJ-19255,Corporate
+Tracy Collins,TC-21535,Home Office
+Chuck Sachs,CS-12460,Consumer
+Henry Goldwyn,HG-14965,Corporate
+Laurel Workman,LW-16825,Corporate
+Matt Collins,MC-17575,Consumer
+Liz Preis,LP-17095,Consumer
+Evan Bailliet,EB-14170,Consumer
+George Zrebassa,GZ-14545,Corporate
+Cathy Prescott,CP-12085,Corporate
+Frank Gastineau,FG-14260,Home Office
+Lisa DeCherney,LD-17005,Consumer
+Alejandro Ballentine,AB-10255,Home Office
+Michael Nguyen,MN-17935,Consumer
+Jim Radford,JR-15670,Consumer
+Jamie Frazer,JF-15190,Consumer
+Chad McGuire,CM-12115,Consumer
+Aaron Smayling,AS-10045,Corporate
+Beth Paige,BP-11290,Consumer
+Natalie DeCherney,ND-18370,Consumer
+Larry Blacks,LB-16735,Consumer
+Kean Takahito,KT-16465,Consumer
+Harry Marie,HM-14860,Corporate
+Ann Blume,AB-10600,Corporate
+Sam Zeldin,SZ-20035,Home Office
+Michael Granlund,MG-17890,Home Office
+Julie Kriz,JK-16120,Home Office
+Paul Prost,PP-18955,Home Office
+Yana Sorensen,YS-21880,Corporate
+Katherine Murray,KM-16375,Home Office
+Adrian Barton,AB-10105,Consumer
+Helen Abelman,HA-14905,Consumer
+Beth Thompson,BT-11305,Home Office
+Stuart Van,SV-20815,Corporate
+Rick Wilson,RW-19540,Corporate
+Damala Kotsonis,DK-12835,Corporate
+Shui Tom,ST-20530,Consumer
+Michael Moore,MM-17920,Consumer
+Pauline Webber,PW-19030,Corporate
+Shaun Chance,SC-20440,Corporate
+Thais Sissman,TS-21085,Consumer
+Mark Cousins,MC-17425,Corporate
+Maria Etezadi,ME-17320,Home Office
+Nicole Hansen,NH-18610,Corporate
+Mick Brown,MB-18085,Consumer
+Keith Dawkins,KD-16495,Corporate
+Katherine Nockton,KN-16390,Corporate
+Nora Pelletier,NP-18685,Home Office
+Cindy Stewart,CS-12505,Consumer
+Maxwell Schwartz,MS-17770,Consumer
+Corinna Mitchell,CM-12655,Home Office
+Corey-Lock,Co-12640,Consumer
+Todd Sumrall,TS-21370,Corporate
+Jane Waco,JW-15220,Corporate
+John Dryer,JD-15790,Consumer
+Pauline Chand,PC-19000,Home Office
+Andy Reiter,AR-10540,Consumer
+Arianne Irving,AI-10855,Consumer
+Tom Boeckenhauer,TB-21400,Consumer
+Paul Lucas,PL-18925,Home Office
+Gary Hwang,GH-14425,Consumer
+Mike Pelletier,MP-18175,Home Office
+Jim Mitchum,JM-15655,Corporate
+Carl Ludwig,CL-11890,Consumer
+Deborah Brumfield,DB-13270,Home Office
+Ivan Gibson,IG-15085,Consumer
+Bobby Odegard,BO-11425,Consumer
+Aimee Bixby,AB-10150,Consumer
+Julia West,JW-16075,Consumer
+Edward Becker,EB-13750,Corporate
+Sheri Gordon,SG-20470,Consumer
+Charlotte Melton,CM-12190,Consumer
+Anthony Witt,AW-10840,Consumer
+Mick Crebagga,MC-18100,Consumer
+Tonja Turnell,TT-21460,Home Office
+Vivek Grady,VG-21805,Corporate
+Muhammed Yedwab,MY-18295,Corporate
+Rick Duston,RD-19480,Consumer
+Dennis Pardue,DP-13390,Home Office
+Marina Lichtenstein,ML-17395,Corporate
+Jenna Caffey,JC-15385,Consumer
+James Galang,JG-15160,Consumer
+Marc Crier,MC-17275,Consumer
+Natalie Webber,NW-18400,Consumer
+Toby Braunhardt,TB-21280,Consumer
+Bill Stewart,BS-11380,Corporate
+Hilary Holden,HH-15010,Corporate
+Christina DeMoss,CD-12280,Consumer
+Thea Hendricks,TH-21100,Consumer
+Michelle Moray,MM-18055,Consumer
+Neola Schneider,NS-18505,Consumer
+Robert Barroso,RB-19645,Corporate
+Shaun Weien,SW-20455,Consumer
+Eric Barreto,EB-13930,Consumer
+Pamela Stobb,PS-18760,Consumer
+Herbert Flentye,HF-14995,Consumer
+Henia Zydlo,HZ-14950,Consumer
+Cynthia Delaney,CD-12790,Home Office
+Jamie Kunitz,JK-15205,Consumer
+Filia McAdams,FM-14215,Corporate
+Emily Ducich,ED-13885,Home Office
+Dianna Arnett,DA-13450,Home Office
+Joni Wasserman,JW-15955,Consumer
+Raymond Messe,RM-19375,Consumer
+Max Ludwig,ML-17755,Home Office
+Craig Carroll,CC-12685,Consumer
+Jim Epp,JE-15610,Corporate
+Roy Phan,RP-19855,Corporate
+Thomas Boland,TB-21175,Corporate
+Brad Eason,BE-11455,Home Office
+Jill Fjeld,JF-15565,Consumer
+Phillip Breyer,PB-19210,Corporate
+Brian Thompson,BT-11680,Consumer
+Janet Lee,JL-15235,Consumer
+Cathy Hwang,CH-12070,Home Office
+Neil Ducich,ND-18460,Corporate
+Barbara Fisher,BF-10975,Corporate
+Katharine Harms,KH-16330,Corporate
+Giulietta Weimer,GW-14605,Consumer
+Noah Childs,NC-18625,Corporate
+Michelle Ellison,ME-18010,Corporate
+Benjamin Patterson,BP-11230,Consumer
+John Castell,JC-15775,Consumer
+Adam Shillingsburg,AS-10090,Consumer
+Amy Cox,AC-10450,Consumer
+Michael Dominguez,MD-17860,Corporate
+Duane Benoit,DB-13660,Consumer
+Erica Hackney,EH-13990,Consumer
+Edward Hooks,EH-13765,Corporate
+Scot Coram,SC-20230,Corporate
+Joe Elijah,JE-15715,Consumer
+Ann Chong,AC-10615,Corporate
+Joy Daniels,JD-16015,Consumer
+Christy Brittain,CB-12415,Consumer
+Joy Smith,JS-16030,Consumer
+Luke Weiss,LW-17215,Consumer
+Stuart Calhoun,SC-20800,Consumer
+Anne McFarland,AM-10705,Consumer
+Rick Huthwaite,RH-19510,Home Office
+Carol Triggs,CT-11995,Consumer
+Matt Collister,MC-17590,Corporate
+Corey Catlett,CC-12610,Corporate
+Kelly Andreada,KA-16525,Consumer
+Tamara Chand,TC-20980,Corporate
+Bart Folk,BF-11080,Consumer
+Magdelene Morse,MM-17260,Consumer
+Adrian Hane,AH-10120,Home Office
+Ben Wallace,BW-11200,Consumer
+Scot Wooten,SW-20245,Consumer
+Brian Stugart,BS-11665,Consumer
+Randy Ferguson,RF-19345,Corporate
+William Brown,WB-21850,Consumer
+Trudy Brown,TB-21625,Consumer
+Art Ferguson,AF-10870,Consumer
+Richard Bierner,RB-19435,Consumer
+Karen Ferguson,KF-16285,Home Office
+John Huston,JH-15820,Consumer
+Ivan Liston,IL-15100,Consumer
+Patrick Bzostek,PB-18805,Home Office
+Rob Haberlin,RH-19600,Consumer
+Arthur Wiediger,AW-10930,Home Office
+Maris LaWare,ML-17410,Consumer
+Dorothy Badders,DB-13555,Corporate
+Matt Hagelstein,MH-17620,Corporate
+Dennis Kane,DK-13375,Consumer
+Bobby Trafton,BT-11440,Consumer
+Denny Blanton,DB-13405,Consumer
+Toby Gnade,TG-21310,Consumer
+Barry Franz,BF-11005,Home Office
+Justin MacKendrick,JM-16195,Consumer
+Maria Zettner,MZ-17335,Home Office
+Mitch Webber,MW-18220,Consumer
+Mark Van Huff,MV-17485,Consumer
+Sean Miller,SM-20320,Home Office
+Tom Prescott,TP-21415,Consumer
+Jim Karlsson,JK-15625,Consumer
+Patrick Jones,PJ-18835,Corporate
+Ricardo Sperren,RS-19420,Corporate
+Susan Vittorini,SV-20935,Consumer
+Becky Castell,BC-11125,Home Office
+Elizabeth Moffitt,EM-13825,Corporate
+Brendan Murry,BM-11575,Corporate
+Kristina Nunn,KN-16705,Home Office
+Kelly Williams,KW-16570,Consumer
+Scott Cohen,SC-20260,Corporate
+Christina VanderZanden,CV-12295,Consumer
+Speros Goranitis,SG-20605,Consumer
+Tamara Manning,TM-21010,Consumer
+Eleni McCrary,EM-13810,Corporate
+Michelle Lonsdale,ML-18040,Corporate
+Clay Rozendal,CR-12580,Home Office
+Annie Zypern,AZ-10750,Consumer
+Pierre Wener,PW-19240,Consumer
+Shahid Collister,SC-20380,Consumer
+Carlos Meador,CM-11935,Consumer
+Greg Maxwell,GM-14695,Corporate
+Tim Brockman,TB-21250,Consumer
+John Murray,JM-15865,Consumer
+Sonia Cooley,SC-20575,Consumer
+Luke Schmidt,LS-17200,Corporate
+Ralph Ritter,RR-19315,Consumer
+Daniel Byrd,DB-12910,Home Office
+Thomas Thornton,TT-21220,Consumer
+Lori Olson,LO-17170,Corporate
+Ken Dana,KD-16615,Corporate
+Nicole Brennan,NB-18580,Corporate
+Brian Derr,BD-11635,Consumer
+Chris McAfee,CM-12235,Consumer
+Edward Nazzal,EN-13780,Consumer
+Kean Nguyen,KN-16450,Corporate
+Bill Overfelt,BO-11350,Corporate
+Aleksandra Gannaway,AG-10300,Corporate
+Matthew Clasen,MC-17635,Corporate
+Tom Ashbrook,TA-21385,Home Office
+Jason Fortune-,JF-15295,Consumer
+Tim Taslimi,TT-21265,Corporate
+Sarah Bern,SB-20170,Consumer
+Craig Leslie,CL-12700,Home Office
+Hunter Glantz,HG-15025,Consumer
+Nancy Lomonaco,NL-18310,Home Office
+Rick Reed,RR-19525,Corporate
+Toby Carlisle,TC-21295,Consumer
+Stewart Visinsky,SV-20785,Consumer
+Bobby Elias,BE-11410,Consumer
+Steve Carroll,SC-20680,Home Office
+David Flashing,DF-13135,Consumer
+Fred Harton,FH-14350,Consumer
+MaryBeth Skach,MS-17530,Consumer
+Ritsa Hightower,RH-19555,Consumer
+George Ashbrook,GA-14515,Consumer
+Julie Prescott,JP-16135,Home Office
+Dean percer,Dp-13240,Home Office
+Michael Oakman,MO-17950,Consumer
+Denise Leinenbach,DL-13330,Consumer
+Michelle Huthwaite,MH-18025,Consumer
+Daniel Raglin,DR-12940,Home Office
+Darrin Martin,DM-13015,Consumer
+Carol Adams,CA-11965,Corporate
+Anna Chung,AC-10660,Consumer
+Denise Monton,DM-13345,Corporate
+Vicky Freymann,VF-21715,Home Office
+Christopher Conant,CC-12370,Consumer
+Beth Fritzler,BF-11275,Corporate
+Harry Greene,HG-14845,Consumer
+Becky Pak,BP-11155,Consumer
+Eugene Moren,EM-14140,Home Office
+Michelle Arnett,MA-17995,Home Office
+Andy Yotov,AY-10555,Corporate
+Giulietta Baptist,GB-14575,Consumer
+Julia Barnett,JB-16045,Home Office
+Michael Grace,MG-17875,Home Office
+Sharelle Roach,SR-20425,Home Office
+Joy Bell-,JB-16000,Consumer
+Dario Medina,DM-12955,Corporate
+Tony Chapman,TC-21475,Home Office
+Sean Wendt,SW-20350,Home Office
+Richard Eichhorn,RE-19450,Consumer
+Benjamin Farhat,BF-11215,Home Office
+Katrina Bavinger,KB-16405,Home Office
+Jason Gross,JG-15310,Corporate
+Erin Creighton,EC-14050,Consumer
+Eugene Barchas,EB-14110,Consumer
+Jennifer Patt,JP-15460,Corporate
+Cari Sayre,CS-11845,Corporate
+Gary Hansen,GH-14410,Home Office
+Pete Takahito,PT-19090,Consumer
+Jack Lebron,JL-15130,Consumer
+Aaron Hawkins,AH-10030,Corporate
+Cindy Chapman,CC-12475,Consumer
+David Wiener,DW-13195,Corporate
+Sarah Jordon,SJ-20215,Consumer
+Bruce Geld,BG-11740,Consumer
+Laurel Beltran,LB-16795,Home Office
+Candace McMahon,CM-11815,Corporate
+Evan Henry,EH-14185,Consumer
+Tony Sayre,TS-21505,Consumer
+Patrick Ryan,PR-18880,Consumer
+Liz Carlisle,LC-17050,Consumer
+Cindy Schnelling,CS-12490,Corporate
+Dave Hallsten,DH-13075,Corporate
+Jack O'Briant,JO-15145,Corporate
+Anna Häberlin,AH-10690,Corporate
+Heather Jas,HJ-14875,Home Office
+Mark Hamilton,MH-17455,Consumer
+Russell D'Ascenzo,RD-19930,Consumer
+Sam Craven,SC-20020,Consumer
+Stephanie Ulpright,SU-20665,Home Office
+Fred Chung,FC-14335,Corporate
+Randy Bradley,RB-19330,Consumer
+Nick Crebassa,NC-18535,Corporate
+Darren Budd,DB-12970,Corporate
+Maureen Fritzler,MF-17665,Corporate
+Roland Murray,RM-19750,Consumer
+Vivian Mathis,VM-21835,Consumer
+Ed Jacobs,EJ-13720,Consumer
+Nathan Cano,NC-18415,Consumer
+Lycoris Saunders,LS-17230,Consumer
+Katrina Edelman,KE-16420,Corporate
+Duane Huffman,DH-13675,Home Office
+Peter Fuller,PF-19120,Consumer
+Valerie Takahito,VT-21700,Home Office
+Maureen Gnade,MG-17695,Consumer
+Susan Pistek,SP-20920,Consumer
+Charles Sheldon,CS-12175,Corporate
+Dana Kaydos,DK-12895,Consumer
+Khloe Miller,KM-16660,Consumer
+Anna Andreadi,AA-10645,Consumer
+Dorothy Dickinson,DD-13570,Consumer
+Amy Hunt,AH-10465,Consumer
+Tracy Poddar,TP-21565,Corporate
+Eileen Kiefer,EK-13795,Home Office
+Cyra Reiten,CR-12820,Home Office
+Susan Gilcrest,SG-20890,Corporate
+Angele Hood,AH-10585,Consumer
+Neil Französisch,NF-18475,Home Office
+Bill Shonely,BS-11365,Corporate
+Stefanie Holloman,SH-20635,Corporate
+Roger Demir,RD-19720,Consumer
+Alex Grayson,AG-10330,Consumer
+Georgia Rosenberg,GR-14560,Corporate
+Vivek Sundaresam,VS-21820,Consumer
+Tony Molinari,TM-21490,Consumer
+Tom Stivers,TS-21430,Corporate
+Dennis Bolton,DB-13360,Home Office
+Nick Radford,NR-18550,Consumer
+Cari Schnelling,CS-11860,Consumer
+Monica Federle,MF-18250,Corporate
+Liz Willingham,LW-17125,Consumer
+Alex Russell,AR-10345,Corporate
+Karen Seio,KS-16300,Corporate
+Aaron Bergman,AB-10015,Consumer
+Lisa Ryan,LR-17035,Corporate
+Shahid Shariari,SS-20410,Consumer
+Jill Matthias,JM-15580,Consumer
+Jason Klamczynski,JK-15325,Corporate
+Don Miller,DM-13525,Corporate
+Muhammed Lee,ML-18265,Consumer
+Marc Harrigan,MH-17290,Home Office
+Frank Carlisle,FC-14245,Home Office
+Thea Hudgings,TH-21115,Corporate
+Juliana Krohn,JK-16090,Consumer
+Sarah Brown,SB-20185,Consumer
+Barry Gonzalez,BG-11035,Consumer
+Barry Weirich,BW-11065,Consumer
+Mitch Gastineau,MG-18205,Corporate
+Doug O'Connell,DO-13645,Consumer
+Barry Pond,BP-11050,Corporate
+Trudy Schmidt,TS-21655,Consumer
+Evan Minnotte,EM-14200,Home Office
+Anthony O'Donnell,AO-10810,Corporate
+Mark Haberlin,MH-17440,Corporate
+Shirley Schmidt,SS-20515,Home Office
+Lela Donovan,LD-16855,Corporate
+Victoria Pisteka,VP-21760,Corporate
+Theresa Coyne,TC-21145,Corporate
+Ionia McGrath,IM-15055,Consumer
+Anemone Ratner,AR-10570,Consumer
+Craig Molinari,CM-12715,Corporate
+Fred Wasserman,FW-14395,Corporate
+Lindsay Castell,LC-16960,Home Office
+Harold Engle,HE-14800,Corporate
+Brendan Dodson,BD-11560,Home Office
+Harold Dahlen,HD-14785,Home Office
+Carl Jackson,CJ-11875,Corporate
+Roy Skaria,RS-19870,Home Office
+Sung Chung,SC-20845,Consumer
+Ricardo Emerson,RE-19405,Consumer
+Susan MacKendrick,SM-20905,Consumer
